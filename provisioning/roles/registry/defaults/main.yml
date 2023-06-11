@@ -1,0 +1,3 @@
+certbot_email: mail@pro-maker.ru
+certbot_hosts:
+    - registry.demo-auction.pro-maker.ru
